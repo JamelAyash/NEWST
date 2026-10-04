@@ -42,7 +42,7 @@ dependencies:
   shimmer: ^3.0.0
   flutter_svg: ^2.0.17
   flutter_screenutil: ^5.9.3
-  image_picker: ^1.2.0
+  image_picker: ^1.1.0
   country_picker: ^2.0.27
   hive_ce_flutter: ^2.2.0
 
